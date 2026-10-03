@@ -149,11 +149,11 @@ Afgedekt in de koelkast 3-4 dagen houdbaar, in de vriezer tot 3 maanden. dit is 
 # prog-m5
 # opdrach 1
 # ![s](image/1.gif)
-# [code](Assest/scrips/m5prog) [code](Assest/scrips/tower)
+# [code](Assest/scrips/m5prog.cs) [code](Assest/scrips/tower.cs)
 # 
 # opdracht 2
 # ![s](image/2.gif)
-# [code](Assest/scrips/Player2)
+# [code](Assest/scrips/Player2.cs)
 # opdracht 4
 # ![s](image/4.gif)
 # [repo](https://github.com/NamesSR/Space48)
